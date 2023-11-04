@@ -1,2 +1,2 @@
-# gebaeudemeister.github.io
-Gebäudereinigung und Hausmeisterservice Laszlo Kardos
+# kardos.github.io
+Kardos Service-Partner Maintenance Site
